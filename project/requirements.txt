@@ -1,0 +1,10 @@
+celery
+Django~=4.0.1
+django_celery_beat
+django-redis
+djangorestframework~=3.13.0
+django-environ
+psycopg2-binary
+redis
+requests
+dj-static

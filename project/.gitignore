@@ -130,3 +130,6 @@ dmypy.json
 
 # ide data
 .idea
+
+#static files
+static/
